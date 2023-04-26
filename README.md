@@ -1,9 +1,11 @@
 ![header](https://github.com/gabrielamaureira/gabrielamaureira/blob/main/header.png)
 
-<h1 align="center">Hola 👋, soy Gabriela</h1>
+# Hola, Soy Gabriela! 👋
+
 
 ## 🚀 About Me
 Soy desarrolladora Full Stack en PHP especializada en Laravel, entusiasta de seguir aprendiendo y mejorar mis habilidades en el desarrollo de aplicaciones web.
+
 
 ## 🛠 Skills
 
