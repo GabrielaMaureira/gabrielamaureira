@@ -1,3 +1,5 @@
+![header](https://github.com/gabrielamaureira/gabrielamaureira/blob/main/header.png)
+
 <h1 align="center">Hola 👋, soy Gabriela</h1>
 <h3 align="center">Full Stack PHP</h3>
 <h5 align="center">
